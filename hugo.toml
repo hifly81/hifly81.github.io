@@ -1,4 +1,4 @@
 baseURL = 'https://github.com/hifly81/hifly81.github.io'
 languageCode = 'en-us'
 title = "Giovanni Marigi's page"
-theme = 'beatifulhugo'
+theme = 'hugo-PaperMod'
