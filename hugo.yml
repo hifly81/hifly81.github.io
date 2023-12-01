@@ -29,6 +29,9 @@ menu:
     - identifier: about
       name: About
       url: /about
+    - identifier: gialappa
+      name: Gialappa
+      url: /gialappa
 
 params:
   socialIcons:
