@@ -5,42 +5,33 @@ theme: PaperMod
 
 menu:
   main:
-    - identifier: home
-      name: Home
-      url: /
-      weight: 10
     - identifier: posts
       name: Blog
       url: /posts/
-      weight: 20
     - identifier: books
       name: Books
       url: /books
-      weight: 30
     - identifier: songs
       name: Songs
       url: /songs
-      weight: 40
-    - identifier: projects
-      name: Projects
-      url: https://github.com/hifly81
-      weight: 50
     - identifier: art
       name: Art
       url: /art
-      weight: 60
+    - identifier: movie
+      name: Movie
+      url: /movie
     - identifier: sport
       name: Sport
       url: /sport
-      weight: 70
     - identifier: food
       name: Food
       url: /food
-      weight: 80
+    - identifier: tags
+      name: Tags
+      url: /tags/
     - identifier: about
       name: About
       url: /about
-      weight: 90
 
 params:
   socialIcons:
@@ -50,5 +41,9 @@ params:
       url: "https://github.com/hifly81"
     - name: linkedin
       url: "https://linkedin.com/in/giovannimarigi"
+    - name: spotify
+      url: "https://open.spotify.com/user/hifly81"
+    - name: instagram
+      url: "https://instagram.com/giogioistg"
     - name: RSS
       url: "/posts/index.xml"

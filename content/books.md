@@ -1,6 +1,9 @@
-+++
-draft = false
-+++
+---
+draft: false
+tags:
+  - books
+  - wildlife
+---
 
 ### Gino Strada
  - Una persona alla volta

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>literature on Giovanni Marigi - Personal Page</title>
+    <link>https://hifly81.github.io/tags/literature/</link>
+    <description>Recent content in literature on Giovanni Marigi - Personal Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Dec 2023 08:55:49 +0100</lastBuildDate><atom:link href="https://hifly81.github.io/tags/literature/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The importance of reading books</title>
+      <link>https://hifly81.github.io/posts/my-first-post/</link>
+      <pubDate>Fri, 01 Dec 2023 08:55:49 +0100</pubDate>
+      
+      <guid>https://hifly81.github.io/posts/my-first-post/</guid>
+      <description>At the basis of a simple and natural understanding of oneself, which is I believe the definition of happiness (albeit intermittently), is the discovery of what is not so obvious through reading.</description>
+    </item>
+    
+  </channel>
+</rss>
