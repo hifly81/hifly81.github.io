@@ -1,0 +1,46 @@
+baseURL: 'https://hifly81.github.io'
+languageCode: en-us
+title: Giovanni Marigi - Personal Page
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 10
+    - identifier: posts
+      name: Blog
+      url: /posts/
+      weight: 20
+    - identifier: books
+      name: Books
+      url: /books
+      weight: 30
+    - identifier: songs
+      name: Songs
+      url: /songs
+      weight: 40
+    - identifier: projects
+      name: Projects
+      url: https://github.com/hifly81
+      weight: 50
+    - identifier: art
+      name: Art
+      url: /art
+      weight: 60
+    - identifier: about
+      name: About
+      url: /about
+      weight: 70
+
+params:
+  socialIcons:
+    - name: email
+      url: "mailto:gio.marigi@gmail.com"
+    - name: github
+      url: "https://github.com/hifly81"
+    - name: linkedin
+      url: "https://linkedin.com/in/giovannimarigi"
+    - name: RSS
+      url: "/posts/index.xml"

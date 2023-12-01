@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://hifly81.github.io/art/</loc>
+    <lastmod>2023-12-01T09:26:58+01:00</lastmod>
+  </url><url>
+    <loc>https://hifly81.github.io/about/</loc>
+    <lastmod>2023-12-01T09:26:55+01:00</lastmod>
+  </url><url>
+    <loc>https://hifly81.github.io/books/</loc>
+    <lastmod>2023-12-01T09:21:59+01:00</lastmod>
+  </url><url>
+    <loc>https://hifly81.github.io/</loc>
+    <lastmod>2023-12-01T08:55:49+01:00</lastmod>
+  </url><url>
+    <loc>https://hifly81.github.io/posts/my-first-post/</loc>
+    <lastmod>2023-12-01T08:55:49+01:00</lastmod>
+  </url><url>
+    <loc>https://hifly81.github.io/posts/</loc>
+    <lastmod>2023-12-01T08:55:49+01:00</lastmod>
+  </url><url>
+    <loc>https://hifly81.github.io/songs/</loc>
+  </url><url>
+    <loc>https://hifly81.github.io/categories/</loc>
+  </url><url>
+    <loc>https://hifly81.github.io/tags/</loc>
+  </url>
+</urlset>
