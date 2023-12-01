@@ -29,10 +29,18 @@ menu:
       name: Art
       url: /art
       weight: 60
+    - identifier: sport
+      name: Sport
+      url: /sport
+      weight: 70
+    - identifier: food
+      name: Food
+      url: /food
+      weight: 80
     - identifier: about
       name: About
       url: /about
-      weight: 70
+      weight: 90
 
 params:
   socialIcons:

@@ -8,6 +8,24 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 01 Dec 2023 08:55:49 +0100</lastBuildDate><atom:link href="https://hifly81.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Food</title>
+      <link>https://hifly81.github.io/food/</link>
+      <pubDate>Fri, 01 Dec 2023 10:41:47 +0100</pubDate>
+      
+      <guid>https://hifly81.github.io/food/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sport</title>
+      <link>https://hifly81.github.io/sport/</link>
+      <pubDate>Fri, 01 Dec 2023 10:41:41 +0100</pubDate>
+      
+      <guid>https://hifly81.github.io/sport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Art</title>
       <link>https://hifly81.github.io/art/</link>
       <pubDate>Fri, 01 Dec 2023 09:26:58 +0100</pubDate>
@@ -17,25 +35,7 @@
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://hifly81.github.io/about/</link>
-      <pubDate>Fri, 01 Dec 2023 09:26:55 +0100</pubDate>
-      
-      <guid>https://hifly81.github.io/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Books</title>
-      <link>https://hifly81.github.io/books/</link>
-      <pubDate>Fri, 01 Dec 2023 09:21:59 +0100</pubDate>
-      
-      <guid>https://hifly81.github.io/books/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
+      <title>The importance of reading books</title>
       <link>https://hifly81.github.io/posts/my-first-post/</link>
       <pubDate>Fri, 01 Dec 2023 08:55:49 +0100</pubDate>
       
@@ -45,11 +45,31 @@
     
     <item>
       <title></title>
+      <link>https://hifly81.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hifly81.github.io/about/</guid>
+      <description>I am a guy (and always will be in spirit) over 40 who works as a Solutions Architects in the IT sector.
+I studied Computer Engineering and my background is humanistic and the subjects studied during my high school years have remained my passions as can be seen in this website.
+In addition to literature, the study of history, art and music, I have a great passion for sport in general and mainly follow and practice mountain biking, trekking, tennis and basketball.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hifly81.github.io/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hifly81.github.io/books/</guid>
+      <description>Gino Strada Una persona alla volta Jon Krakauer Into the Wild </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://hifly81.github.io/songs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hifly81.github.io/songs/</guid>
-      <description>Dire Straits On Every Street INXS Never Tear Us Apart Lana Del Rey Summertime Sadness </description>
+      <description>Dire Straits On Every Street INXS Never Tear Us Apart Lana Del Rey Summertime Sadness Prince Purple Rain </description>
     </item>
     
   </channel>

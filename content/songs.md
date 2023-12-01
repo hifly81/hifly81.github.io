@@ -10,3 +10,6 @@ draft = false
 
 ### Lana Del Rey
  - Summertime Sadness
+
+### Prince
+ - Purple Rain
