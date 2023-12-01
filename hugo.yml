@@ -11,9 +11,6 @@ menu:
     - identifier: books
       name: Books
       url: /books
-    - identifier: songs
-      name: Songs
-      url: /songs
     - identifier: art
       name: Art
       url: /art
