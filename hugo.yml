@@ -35,8 +35,6 @@ menu:
 
 params:
   socialIcons:
-    - name: email
-      url: "mailto:gio.marigi@gmail.com"
     - name: github
       url: "https://github.com/hifly81"
     - name: linkedin
