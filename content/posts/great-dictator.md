@@ -1,5 +1,5 @@
 ---
-title: 'Hanno ucciso l''uomo ragno'
+title: 'The great dictator - Final speech'
 draft: false
 tags:
   - charliechaplin
