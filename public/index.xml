@@ -5,28 +5,7 @@
     <link>https://hifly81.github.io/</link>
     <description>Recent content on Giovanni Marigi - Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 02 Dec 2023 08:55:49 +0100</lastBuildDate><atom:link href="https://hifly81.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Dirty Dancing</title>
-      <link>https://hifly81.github.io/posts/dirty_dancing/</link>
-      <pubDate>Sat, 02 Dec 2023 08:55:49 +0100</pubDate>
-      
-      <guid>https://hifly81.github.io/posts/dirty_dancing/</guid>
-      <description>Last night after many years I happened to see Dirty Dancing again, a film I think everyone knows.
-The intensity of some scenes in this film are so current that seeing them again I was left speechless as always. And the message of love without limits, impossible but then possible is a timeless classic.
-It is also a tribute to a great actor like Patrick Swayze who always gave me the idea of being a person with kind and polite ways.</description>
-    </item>
-    
-    <item>
-      <title>The importance of reading books</title>
-      <link>https://hifly81.github.io/posts/my-first-post/</link>
-      <pubDate>Fri, 01 Dec 2023 08:55:49 +0100</pubDate>
-      
-      <guid>https://hifly81.github.io/posts/my-first-post/</guid>
-      <description>At the basis of a simple and natural understanding of oneself, which is I believe the definition of happiness (albeit intermittently), is the discovery of what is not so obvious through reading.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://hifly81.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://hifly81.github.io/about/</link>
@@ -94,6 +73,15 @@ In addition to literature, the study of history, art and music, I have a great p
     
     <item>
       <title></title>
+      <link>https://hifly81.github.io/sport/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hifly81.github.io/sport/</guid>
+      <description> Diego Milito scores 1-0 | Inter vs Bayern Munich Uefa Champions League 2010 Fabio Grosso Goal vs Germany | World Cup 2006 Jannik Sinner cancels three match points from Novak Djokovic | Davis Cup Semifinal 2023 Top Ten Magic Johnson plays </description>
+    </item>
+    
+    <item>
+      <title>All the way</title>
       <link>https://hifly81.github.io/posts/all-the-way/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -103,12 +91,23 @@ One big regret is never having seen them live. They&amp;rsquo;re certainly not t
     </item>
     
     <item>
-      <title></title>
-      <link>https://hifly81.github.io/sport/</link>
+      <title>Dirty Dancing</title>
+      <link>https://hifly81.github.io/posts/dirty_dancing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hifly81.github.io/sport/</guid>
-      <description> Diego Milito scores 1-0 | Inter vs Bayern Munich Uefa Champions League 2010 Fabio Grosso Goal vs Germany | World Cup 2006 Jannik Sinner cancels three match points from Novak Djokovic | Davis Cup Semifinal 2023 Top Ten Magic Johnson plays </description>
+      <guid>https://hifly81.github.io/posts/dirty_dancing/</guid>
+      <description>Last night after many years I happened to see Dirty Dancing again, a film I think everyone knows.
+The intensity of some scenes in this film are so current that seeing them again I was left speechless as always. And the message of love without limits, impossible but then possible is a timeless classic.
+It is also a tribute to a great actor like Patrick Swayze who always gave me the idea of being a person with kind and polite ways.</description>
+    </item>
+    
+    <item>
+      <title>The importance of reading books</title>
+      <link>https://hifly81.github.io/posts/my-first-post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hifly81.github.io/posts/my-first-post/</guid>
+      <description>At the basis of a simple and natural understanding of oneself, which is I believe the definition of happiness (albeit intermittently), is the discovery of what is not so obvious through reading.</description>
     </item>
     
   </channel>

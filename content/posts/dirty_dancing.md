@@ -1,6 +1,5 @@
 ---
 title: 'Dirty Dancing'
-date: 2023-12-02T08:55:49+01:00
 draft: false
 tags: 
   - movie

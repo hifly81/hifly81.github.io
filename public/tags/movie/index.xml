@@ -5,19 +5,7 @@
     <link>https://hifly81.github.io/tags/movie/</link>
     <description>Recent content in movie on Giovanni Marigi - Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 02 Dec 2023 08:55:49 +0100</lastBuildDate><atom:link href="https://hifly81.github.io/tags/movie/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Dirty Dancing</title>
-      <link>https://hifly81.github.io/posts/dirty_dancing/</link>
-      <pubDate>Sat, 02 Dec 2023 08:55:49 +0100</pubDate>
-      
-      <guid>https://hifly81.github.io/posts/dirty_dancing/</guid>
-      <description>Last night after many years I happened to see Dirty Dancing again, a film I think everyone knows.
-The intensity of some scenes in this film are so current that seeing them again I was left speechless as always. And the message of love without limits, impossible but then possible is a timeless classic.
-It is also a tribute to a great actor like Patrick Swayze who always gave me the idea of being a person with kind and polite ways.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://hifly81.github.io/tags/movie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://hifly81.github.io/movie/</link>
@@ -25,6 +13,17 @@ It is also a tribute to a great actor like Patrick Swayze who always gave me the
       
       <guid>https://hifly81.github.io/movie/</guid>
       <description> Deutschland 83 Dirty Dancing Full Metal Jacket Inglorious Bastards Into the Wild The Last Dance MAP1MP1: The Makazole Mapimpi Story The Prestige Schindler&amp;rsquo;s List Scene da un matrimonio The Usual Suspects </description>
+    </item>
+    
+    <item>
+      <title>Dirty Dancing</title>
+      <link>https://hifly81.github.io/posts/dirty_dancing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hifly81.github.io/posts/dirty_dancing/</guid>
+      <description>Last night after many years I happened to see Dirty Dancing again, a film I think everyone knows.
+The intensity of some scenes in this film are so current that seeing them again I was left speechless as always. And the message of love without limits, impossible but then possible is a timeless classic.
+It is also a tribute to a great actor like Patrick Swayze who always gave me the idea of being a person with kind and polite ways.</description>
     </item>
     
   </channel>
