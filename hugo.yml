@@ -29,9 +29,9 @@ menu:
     - identifier: about
       name: About
       url: /about
-    - identifier: gialappa
-      name: Gialappa
-      url: /gialappa
+    - identifier: fun
+      name: Fun
+      url: /fun
     - identifier: misc
       name: Misc
       url: /misc
@@ -46,5 +46,7 @@ params:
       url: "https://open.spotify.com/user/hifly81"
     - name: instagram
       url: "https://instagram.com/giogioistg"
+    - name: strava
+      url: "https://www.strava.com/athletes/6973861"
     - name: RSS
       url: "/posts/index.xml"
