@@ -32,6 +32,9 @@ menu:
     - identifier: gialappa
       name: Gialappa
       url: /gialappa
+    - identifier: misc
+      name: Misc
+      url: /misc
 
 params:
   socialIcons:

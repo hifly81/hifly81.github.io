@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hifly81.github.io/tags/books/</loc>
-    <lastmod>2023-12-01T08:55:49+01:00</lastmod>
+    <loc>https://hifly81.github.io/posts/dirty_dancing/</loc>
+    <lastmod>2023-12-02T08:55:49+01:00</lastmod>
   </url><url>
     <loc>https://hifly81.github.io/</loc>
+    <lastmod>2023-12-02T08:55:49+01:00</lastmod>
+  </url><url>
+    <loc>https://hifly81.github.io/tags/movie/</loc>
+    <lastmod>2023-12-02T08:55:49+01:00</lastmod>
+  </url><url>
+    <loc>https://hifly81.github.io/posts/</loc>
+    <lastmod>2023-12-02T08:55:49+01:00</lastmod>
+  </url><url>
+    <loc>https://hifly81.github.io/tags/</loc>
+    <lastmod>2023-12-02T08:55:49+01:00</lastmod>
+  </url><url>
+    <loc>https://hifly81.github.io/tags/books/</loc>
     <lastmod>2023-12-01T08:55:49+01:00</lastmod>
   </url><url>
     <loc>https://hifly81.github.io/tags/literature/</loc>
     <lastmod>2023-12-01T08:55:49+01:00</lastmod>
   </url><url>
-    <loc>https://hifly81.github.io/posts/</loc>
-    <lastmod>2023-12-01T08:55:49+01:00</lastmod>
-  </url><url>
     <loc>https://hifly81.github.io/tags/reading/</loc>
-    <lastmod>2023-12-01T08:55:49+01:00</lastmod>
-  </url><url>
-    <loc>https://hifly81.github.io/tags/</loc>
     <lastmod>2023-12-01T08:55:49+01:00</lastmod>
   </url><url>
     <loc>https://hifly81.github.io/posts/my-first-post/</loc>
@@ -33,23 +39,39 @@
   </url><url>
     <loc>https://hifly81.github.io/gialappa/</loc>
   </url><url>
+    <loc>https://hifly81.github.io/misc/</loc>
+  </url><url>
     <loc>https://hifly81.github.io/movie/</loc>
   </url><url>
     <loc>https://hifly81.github.io/sport/</loc>
   </url><url>
     <loc>https://hifly81.github.io/tags/art/</loc>
   </url><url>
+    <loc>https://hifly81.github.io/tags/basketball/</loc>
+  </url><url>
+    <loc>https://hifly81.github.io/tags/bike/</loc>
+  </url><url>
     <loc>https://hifly81.github.io/tags/canvas/</loc>
+  </url><url>
+    <loc>https://hifly81.github.io/tags/car/</loc>
   </url><url>
     <loc>https://hifly81.github.io/categories/</loc>
   </url><url>
+    <loc>https://hifly81.github.io/tags/food/</loc>
+  </url><url>
     <loc>https://hifly81.github.io/tags/football/</loc>
+  </url><url>
+    <loc>https://hifly81.github.io/tags/fun/</loc>
+  </url><url>
+    <loc>https://hifly81.github.io/tags/gialappa/</loc>
   </url><url>
     <loc>https://hifly81.github.io/tags/lifestyle/</loc>
   </url><url>
-    <loc>https://hifly81.github.io/tags/movie/</loc>
-  </url><url>
     <loc>https://hifly81.github.io/tags/series/</loc>
+  </url><url>
+    <loc>https://hifly81.github.io/tags/tennis/</loc>
+  </url><url>
+    <loc>https://hifly81.github.io/tags/vespa/</loc>
   </url><url>
     <loc>https://hifly81.github.io/tags/wildlife/</loc>
   </url>

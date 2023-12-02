@@ -8,7 +8,7 @@ I am a guy (and always will be in spirit) over 40 who works as a Solutions Archi
 
 I studied Computer Engineering and my background is humanistic and the subjects studied during my high school years have remained my passions as can be seen in this website.
 
-In addition to literature, the study of history, art and music, I have a great passion for sport in general and mainly follow and practice mountain biking, trekking, tennis and basketball.
+In addition to literature, the study of history, art and music, I have a great passion for sport in general and mainly follow and practice mountain biking, trekking, tennis, swimming and basketball.
 
 I am a fan of music, even if I don't always have a favorite genre, of cinema, but I don't like comedies and of theatre.
 

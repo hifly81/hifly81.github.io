@@ -6,6 +6,7 @@ tags:
 ---
 
  - [Deutschland 83](https://www.imdb.com/title/tt4445154/)
+ - [Dirty Dancing](https://www.imdb.com/title/tt0092890/)
  - [Full Metal Jacket](https://www.imdb.com/title/tt0093058/)
  - [Inglorious Bastards](https://www.imdb.com/title/tt0361748/)
  - [Into the Wild](https://www.imdb.com/title/tt0758758/)
