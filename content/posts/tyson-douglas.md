@@ -8,7 +8,7 @@ tags:
 
 My father was a great boxing fan and inevitably passed this passion on to me too.
 
-I saw many matches with him before I was born, especially those of Monzon and Marvin "The Marvelous" Hagler.
+I saw many matches with him, especially those of Monzon and Marvin "The Marvelous" Hagler.
 
 In the second half of the 80s the heavyweight scene was monopolized by a boy from the suburbs of New York, who became the youngest heavyweight champion of the world, Mike "Iron" Tyson, by dint of instant KOs.
 
