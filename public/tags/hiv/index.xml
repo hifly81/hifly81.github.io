@@ -1,22 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>lifestyle on Giovanni Marigi - Personal Page</title>
-    <link>https://hifly81.github.io/tags/lifestyle/</link>
-    <description>Recent content in lifestyle on Giovanni Marigi - Personal Page</description>
+    <title>hiv on Giovanni Marigi - Personal Page</title>
+    <link>https://hifly81.github.io/tags/hiv/</link>
+    <description>Recent content in hiv on Giovanni Marigi - Personal Page</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://hifly81.github.io/tags/lifestyle/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title></title>
-      <link>https://hifly81.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://hifly81.github.io/about/</guid>
-      <description>I am a guy (and always will be in spirit) over 40 who works as a Solutions Architects in the IT sector.
-I studied Computer Engineering and my background is humanistic and the subjects studied during my high school years have remained my passions as can be seen in this website.
-In addition to literature, the study of history, art and music, I have a great passion for sport in general and mainly follow and practice mountain biking, trekking, tennis, swimming and basketball.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://hifly81.github.io/tags/hiv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Street of Philadelphia</title>
       <link>https://hifly81.github.io/posts/street-of-philadelphia/</link>
