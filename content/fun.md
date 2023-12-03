@@ -18,6 +18,7 @@ tags:
  - [Il castello della sobrietà](https://www.youtube.com/watch?v=r-WiC_2Hx5g)
  - [Cinque ragazzi per me](https://www.youtube.com/watch?v=DoH1A3BY81g)
  - [La dolce Chiara](https://www.youtube.com/watch?v=I7tZbAurOhs) 
+ - [Corrado Guzzanti è Mariano Giusti](https://www.youtube.com/watch?app=desktop&v=VdamI2ql8nI)
  - [Daniele e la sua EX](https://www.youtube.com/watch?v=CyyXULWdeoA)
  - [Glauco - Boris 2](https://www.youtube.com/watch?v=-e4VrsHQV5A)
  - [L'insostenibile leggerezza dell'essere](https://www.youtube.com/watch?v=32ifepMAXeM)

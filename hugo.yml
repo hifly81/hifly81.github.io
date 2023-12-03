@@ -35,6 +35,9 @@ menu:
     - identifier: misc
       name: Misc
       url: /misc
+    - identifier: aid
+      name: Aid
+      url: /aid
 
 params:
   socialIcons:
