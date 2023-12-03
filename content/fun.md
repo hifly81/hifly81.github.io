@@ -7,6 +7,8 @@ tags:
   - macciocapatonda
   - herbertballerina
   - boris
+  - aldogiovanniegiacomo
+  - maidiregol
 ---
 
  - [Are you the one?](https://www.youtube.com/watch?v=sezo4kfbNeo)
@@ -20,6 +22,8 @@ tags:
  - [Glauco - Boris 2](https://www.youtube.com/watch?v=-e4VrsHQV5A)
  - [L'insostenibile leggerezza dell'essere](https://www.youtube.com/watch?v=32ifepMAXeM)
  - [Matrimonio al sud](https://www.youtube.com/watch?v=2zLqfIUuyU4&t=17s)
+ - [Mr. Flanagan e Rolando](https://www.youtube.com/watch?v=6Ciq8xgvW10)
+ - [Nico e i sardi](https://www.youtube.com/watch?v=CjiAPJRsFVU)
  - [Noci di cocco](https://www.youtube.com/watch?v=8QmwRuSd7xQ)
  - [Provini X Factor](https://www.youtube.com/watch?v=sooQLonEVZQ&t=12s)
  - [Renè contro gli avvocati - Boris](https://www.youtube.com/watch?v=fOVY4EpG_7I)
