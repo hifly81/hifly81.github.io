@@ -3,7 +3,15 @@ draft: false
 tags:
   - art
   - canvas
+  - vangogh
+  - basquait
+  - tiziano
 ---
+### Tiziano
+#### Amor Sacro e Amor Profano
+##### _oil on canvas, 1514, Galleria Borghese, Rome, Italy_
+![Resize](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Tiziano_-_Amor_Sacro_y_Amor_Profano_%28Galer%C3%ADa_Borghese%2C_Roma%2C_1514%29.jpg/1920px-Tiziano_-_Amor_Sacro_y_Amor_Profano_%28Galer%C3%ADa_Borghese%2C_Roma%2C_1514%29.jpg)
+
 ### Jean-Michel Basquiat
 #### Warrior
 ##### painting, 1982
