@@ -3,6 +3,7 @@ title: 'Dirty Dancing'
 draft: false
 tags: 
   - movie
+ShowReadingTime: true
 ---
 
 Last night after many years I happened to see Dirty Dancing again, a film I think everyone knows.

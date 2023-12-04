@@ -7,10 +7,10 @@
 <meta name="robots" content="index, follow">
 <title>car | Giovanni Marigi - Personal Page</title>
 <meta name="keywords" content="">
-<meta name="description" content="">
+<meta name="description" content="Giovanni Marigi - Personal Page">
 <meta name="author" content="">
 <link rel="canonical" href="https://hifly81.github.io/tags/car/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.5fce8fed92bffefedbc19f65feaa25bb270719ee64fe5ef94a5c3a659592fc87.css" integrity="sha256-X86P7ZK//v7bwZ9l/qoluycHGe5k/l75Slw6ZZWS/Ic=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.11f71011351756b0a51a97199060a1517dbe5f486bcf5cadaf08a374c2a82f8d.css" integrity="sha256-EfcQETUXVrClGpcZkGChUX2&#43;X0hrz1ytrwijdMKoL40=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://hifly81.github.io/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://hifly81.github.io/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://hifly81.github.io/favicon-32x32.png">
@@ -56,13 +56,13 @@
 
     </style>
 </noscript><meta property="og:title" content="car" />
-<meta property="og:description" content="" />
+<meta property="og:description" content="Giovanni Marigi - Personal Page" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://hifly81.github.io/tags/car/" />
+<meta property="og:url" content="https://hifly81.github.io/tags/car/" /><meta property="og:site_name" content="Giovanni Marigi - Personal Page" />
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="car"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:description" content="Giovanni Marigi - Personal Page"/>
 
 </head>
 
@@ -105,12 +105,14 @@
                 </button>
             </div>
         </div>
-        <ul id="menu">
-            <li>
-                <a href="https://hifly81.github.io/about" title="About">
-                    <span>About</span>
-                </a>
-            </li>
+        <button id="menu-trigger" aria-haspopup="menu" aria-label="Menu Button">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu">
+                <line x1="3" y1="12" x2="21" y2="12"></line>
+                <line x1="3" y1="6" x2="21" y2="6"></line>
+                <line x1="3" y1="18" x2="21" y2="18"></line>
+            </svg>
+        </button>
+        <ul class="menu hidden">
             <li>
                 <a href="https://hifly81.github.io/aid" title="Aid">
                     <span>Aid</span>
@@ -122,7 +124,7 @@
                 </a>
             </li>
             <li>
-                <a href="https://hifly81.github.io/posts/" title="Blog">
+                <a href="https://hifly81.github.io/posts" title="Blog">
                     <span>Blog</span>
                 </a>
             </li>
@@ -142,11 +144,6 @@
                 </a>
             </li>
             <li>
-                <a href="https://hifly81.github.io/misc" title="Misc">
-                    <span>Misc</span>
-                </a>
-            </li>
-            <li>
                 <a href="https://hifly81.github.io/movie" title="Movie">
                     <span>Movie</span>
                 </a>
@@ -157,15 +154,35 @@
                 </a>
             </li>
             <li>
+                <a href="https://hifly81.github.io/misc" title="Misc">
+                    <span>Misc</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://hifly81.github.io" title="">
+                    <span></span>
+                </a>
+            </li>
+            <li>
+                <a href="https://hifly81.github.io/about" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
                 <a href="https://hifly81.github.io/tags/" title="Tags">
                     <span>Tags</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://hifly81.github.io/search" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
                 </a>
             </li>
         </ul>
     </nav>
 </header>
 <main class="main"> 
-<header class="page-header">
+<header class="page-header"><div class="breadcrumbs"><a href="https://hifly81.github.io">Home</a>&nbsp;»&nbsp;<a href="https://hifly81.github.io/tags/">Tags</a></div>
   <h1>
     car
   </h1>
@@ -179,7 +196,7 @@
   <div class="entry-content">
     <p> Vespa 50 SPECIAL ELESTART (V5A3T) - 1973 Jeep Renegade Kross Level B12 - 2017 Ford Focus RS Volvo V40 D2 R-design Audi RS3 Sportback Subaru Impreza WRX STI Kawasaki Ninja 650 </p>
   </div>
-  <footer class="entry-footer"></footer>
+  <footer class="entry-footer">1 min</footer>
   <a class="entry-link" aria-label="post link to " href="https://hifly81.github.io/misc/"></a>
 </article>
     </main>
@@ -244,7 +261,22 @@
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
     </svg>
-</a>
+</a><script>
+    
+    
+    let b = document.querySelector("#menu-trigger")
+    let m = document.querySelector(".menu")
+    b.addEventListener("click", function () {
+        m.classList.toggle("hidden")
+    });
+    
+    document.body.addEventListener('click', function (event) {
+        if (!b.contains(event.target)) {
+            m.classList.add("hidden")
+        }
+    });
+    
+</script>
 
 <script>
     let menu = document.getElementById('menu')

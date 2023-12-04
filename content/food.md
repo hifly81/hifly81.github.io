@@ -2,6 +2,7 @@
 draft: false
 tags:
   - food
+ShowReadingTime: true
 ---
 
  - [Spaghetti alle vongole](https://ricette.giallozafferano.it/Spaghetti-alle-vongole.html)

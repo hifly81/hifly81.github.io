@@ -2,6 +2,7 @@
 draft: false
 tags:
   - lifestyle
+ShowReadingTime: true
 ---
 
 I am a guy (and always will be in spirit) over 40 who works as a Solutions Architects in the IT sector.

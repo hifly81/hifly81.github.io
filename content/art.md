@@ -6,6 +6,7 @@ tags:
   - vangogh
   - basquait
   - tiziano
+ShowReadingTime: true
 ---
 ### Tiziano
 #### Amor Sacro e Amor Profano

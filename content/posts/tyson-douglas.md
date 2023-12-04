@@ -4,6 +4,7 @@ draft: false
 tags:
   - miketyson
   - boxing
+ShowReadingTime: true
 ---
 
 My father was a great boxing fan and inevitably passed this passion on to me too.

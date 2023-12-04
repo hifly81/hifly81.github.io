@@ -4,6 +4,7 @@ tags:
   - car
   - bike
   - vespa
+ShowReadingTime: true
 ---
 
 - [Vespa 50 SPECIAL ELESTART (V5A3T) - 1973](https://www.museopiaggio.it/it/collezioni/1-vespa/27-50-special-elestart-v5a3t)

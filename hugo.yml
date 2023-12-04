@@ -2,44 +2,84 @@ baseURL: 'https://hifly81.github.io'
 languageCode: en-us
 title: Giovanni Marigi - Personal Page
 theme: PaperMod
+paginate: 5
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+enableRobotsTXT: true
 
 menu:
   main:
     - identifier: posts
       name: Blog
-      url: /posts/
+      url: /posts
+      weight: 4
     - identifier: books
       name: Books
       url: /books
+      weight: 5
     - identifier: art
       name: Art
       url: /art
+      weight: 3
     - identifier: movie
       name: Movie
       url: /movie
+      weight: 8
     - identifier: sport
       name: Sport
       url: /sport
+      weight: 9
     - identifier: food
       name: Food
       url: /food
-    - identifier: tags
-      name: Tags
-      url: /tags/
-    - identifier: about
-      name: About
-      url: /about
+      weight: 6
     - identifier: fun
       name: Fun
       url: /fun
+      weight: 7
     - identifier: misc
       name: Misc
       url: /misc
+      weight: 10
     - identifier: aid
       name: Aid
       url: /aid
+      weight: 2
+    - identifier: |
+      url: ""
+      weight: 11
+    - identifier: about
+      name: About
+      url: /about
+      weight: 14
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 15
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 16
 
 params:
+  env: production
+  title: Giovanni Marigi - Personal Page
+  description: Giovanni Marigi - Personal Page
+  keywords: [Giovanni Marigi, Marigi]
+  ShowBreadCrumbs: true
+  ShowToc: true
+  TocOpen: true
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: [ "title", "permalink", "summary", "content" ]
   socialIcons:
     - name: github
       url: "https://github.com/hifly81"

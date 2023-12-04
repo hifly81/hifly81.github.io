@@ -6,6 +6,7 @@ tags:
   - napoleon
   - ridleyscott
   - joaquinphoenix
+ShowReadingTime: true
 ---
 
 Warning [SPOILER ALERT]

@@ -4,6 +4,7 @@ draft: false
 tags:
   - charliechaplin
   - movie
+ShowReadingTime: true
 ---
 
 I'm sorry, but I don't want to be an emperor

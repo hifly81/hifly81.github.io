@@ -3,6 +3,7 @@ draft: false
 tags:
   - books
   - wildlife
+ShowReadingTime: true
 ---
 
  - [Into the Wild - Jon Krakauer](https://books.google.it/books?id=gpQrAQAAIAAJ)

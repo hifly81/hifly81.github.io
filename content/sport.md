@@ -4,6 +4,7 @@ tags:
   - football
   - tennis
   - basketball
+ShowReadingTime: true
 ---
  
  - [Diego Milito scores 1-0 | Inter vs Bayern Munich Uefa Champions League 2010](https://www.dailymotion.com/video/x1vmhm2)

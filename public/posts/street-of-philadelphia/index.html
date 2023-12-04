@@ -12,7 +12,7 @@ The AIDS syndrome appeared forcefully in the 1980s and is still a very important
 There is very little communication now on this topic but it is good to remember that 40 years later, medicine has made important progress and today people with the HIV virus live an almost normal life. Yes, because the HIV virus leads to AIDS syndrome only if patients do not adequately follow a therapeutic path and do not take drugs that contain the virus.">
 <meta name="author" content="">
 <link rel="canonical" href="https://hifly81.github.io/posts/street-of-philadelphia/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.5fce8fed92bffefedbc19f65feaa25bb270719ee64fe5ef94a5c3a659592fc87.css" integrity="sha256-X86P7ZK//v7bwZ9l/qoluycHGe5k/l75Slw6ZZWS/Ic=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.11f71011351756b0a51a97199060a1517dbe5f486bcf5cadaf08a374c2a82f8d.css" integrity="sha256-EfcQETUXVrClGpcZkGChUX2&#43;X0hrz1ytrwijdMKoL40=" rel="preload stylesheet" as="style">
 <script defer crossorigin="anonymous" src="/assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js" integrity="sha256-9BPhnQcUhR9kdOfuljJAjlisFG&#43;9vmJ0cTS&#43;ovo0FeA="
     onload="hljs.initHighlightingOnLoad();"></script>
 <link rel="icon" href="https://hifly81.github.io/favicon.ico">
@@ -65,7 +65,7 @@ There is very little communication now on this topic but it is good to remember 
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://hifly81.github.io/posts/street-of-philadelphia/" /><meta property="article:section" content="posts" />
 
-
+<meta property="og:site_name" content="Giovanni Marigi - Personal Page" />
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Street of Philadelphia"/>
@@ -164,12 +164,14 @@ There is very little communication now on this topic but it is good to remember 
                 </button>
             </div>
         </div>
-        <ul id="menu">
-            <li>
-                <a href="https://hifly81.github.io/about" title="About">
-                    <span>About</span>
-                </a>
-            </li>
+        <button id="menu-trigger" aria-haspopup="menu" aria-label="Menu Button">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu">
+                <line x1="3" y1="12" x2="21" y2="12"></line>
+                <line x1="3" y1="6" x2="21" y2="6"></line>
+                <line x1="3" y1="18" x2="21" y2="18"></line>
+            </svg>
+        </button>
+        <ul class="menu hidden">
             <li>
                 <a href="https://hifly81.github.io/aid" title="Aid">
                     <span>Aid</span>
@@ -181,7 +183,7 @@ There is very little communication now on this topic but it is good to remember 
                 </a>
             </li>
             <li>
-                <a href="https://hifly81.github.io/posts/" title="Blog">
+                <a href="https://hifly81.github.io/posts" title="Blog">
                     <span>Blog</span>
                 </a>
             </li>
@@ -201,11 +203,6 @@ There is very little communication now on this topic but it is good to remember 
                 </a>
             </li>
             <li>
-                <a href="https://hifly81.github.io/misc" title="Misc">
-                    <span>Misc</span>
-                </a>
-            </li>
-            <li>
                 <a href="https://hifly81.github.io/movie" title="Movie">
                     <span>Movie</span>
                 </a>
@@ -216,8 +213,28 @@ There is very little communication now on this topic but it is good to remember 
                 </a>
             </li>
             <li>
+                <a href="https://hifly81.github.io/misc" title="Misc">
+                    <span>Misc</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://hifly81.github.io" title="">
+                    <span></span>
+                </a>
+            </li>
+            <li>
+                <a href="https://hifly81.github.io/about" title="About">
+                    <span>About</span>
+                </a>
+            </li>
+            <li>
                 <a href="https://hifly81.github.io/tags/" title="Tags">
                     <span>Tags</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://hifly81.github.io/search" title="Search (Alt &#43; /)" accesskey=/>
+                    <span>Search</span>
                 </a>
             </li>
         </ul>
@@ -227,14 +244,15 @@ There is very little communication now on this topic but it is good to remember 
 
 <article class="post-single">
   <header class="post-header">
-    
+    <div class="breadcrumbs"><a href="https://hifly81.github.io">Home</a>&nbsp;»&nbsp;<a href="https://hifly81.github.io/posts/">Posts</a></div>
     <h1 class="post-title">
       Street of Philadelphia
     </h1>
-    <div class="post-meta">
+    <div class="post-meta">1 min
 
 </div>
   </header> 
+
   <div class="post-content"><p>Some days like every year, December 1st was International AIDS Day.</p>
 <p>The AIDS syndrome appeared forcefully in the 1980s and is still a very important and widespread disease today.</p>
 <p>There is very little communication now on this topic but it is good to remember that 40 years later, medicine has made important progress and today people with the HIV virus live an almost normal life.
@@ -326,7 +344,22 @@ Yes, because the HIV virus leads to AIDS syndrome only if patients do not adequa
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
         <path d="M12 6H0l6-6z" />
     </svg>
-</a>
+</a><script>
+    
+    
+    let b = document.querySelector("#menu-trigger")
+    let m = document.querySelector(".menu")
+    b.addEventListener("click", function () {
+        m.classList.toggle("hidden")
+    });
+    
+    document.body.addEventListener('click', function (event) {
+        if (!b.contains(event.target)) {
+            m.classList.add("hidden")
+        }
+    });
+    
+</script>
 
 <script>
     let menu = document.getElementById('menu')
