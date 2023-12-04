@@ -39,6 +39,3 @@ ShowReadingTime: true
  - [A tratti](https://www.youtube.com/watch?v=X-bi5zgbKPU)
  - [Il vecchio conio](https://www.youtube.com/watch?v=J_8LXfkE6X4)
  - [La vita è tutto un quiz](https://www.youtube.com/watch?v=J8_DjF2TcB8)
-
-
-![Resize](https://media.licdn.com/dms/image/D4D10AQFr6O-c8bLCsQ/image-shrink_800/0/1682364661203?e=1701896400&v=beta&t=01GI8lQ667XcePo3yklS9sVuivVjIHDA72vECm74HyA)
