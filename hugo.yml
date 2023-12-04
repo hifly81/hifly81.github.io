@@ -44,10 +44,6 @@ menu:
       name: Misc
       url: /misc
       weight: 10
-    - identifier: aid
-      name: Aid
-      url: /aid
-      weight: 2
     - identifier: |
       url: ""
       weight: 11
@@ -55,14 +51,18 @@ menu:
       name: About
       url: /about
       weight: 14
+    - identifier: aid
+      name: Aid
+      url: /aid
+      weight: 15
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 15
+      weight: 16
     - identifier: search
       name: Search
       url: /search
-      weight: 16
+      weight: 17
 
 params:
   env: production
