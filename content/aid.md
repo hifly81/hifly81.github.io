@@ -15,3 +15,7 @@ ShowReadingTime: true
 **[UNHCR](https://www.unhcr.org/it/)**
 
 ![Resize](https://upload.wikimedia.org/wikipedia/commons/8/88/UNHCR.svg)
+
+**[Unicef](https://www.unicef.it/)**
+
+![Resize](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Logo_of_UNICEF.svg/512px-Logo_of_UNICEF.svg.png)
