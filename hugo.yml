@@ -9,6 +9,8 @@ outputs:
     - RSS
     - JSON
 enableRobotsTXT: true
+googleAnalyticsID: G-Q7ZE713GBG
+googleAnalytics: G-Q7ZE713GBG
 
 menu:
   main:
