@@ -6,6 +6,9 @@ tags:
   - vangogh
   - basquait
   - tiziano
+  - michelangelo
+  - vaticano
+  - sculpture
 ShowReadingTime: true
 ---
 ### Tiziano
@@ -22,3 +25,8 @@ ShowReadingTime: true
 #### Prisoners Exercising , also known as Prisoners' Round , (After Gustave Doré)
 ##### _oil on canvas, 1890, Pushkin State Museum of Fine Arts, Moscow, Russia_
 ![Resize](https://upload.wikimedia.org/wikipedia/commons/9/9e/Vincent_Willem_van_Gogh_037.jpg?width=200px)
+
+### Michelangelo
+#### La pietà
+##### _marble sculpture, 1497-1499, Basilica di San Pietro, Città del Vaticano_
+![Resize](https://upload.wikimedia.org/wikipedia/commons/6/65/Pieta_de_Michelangelo_-_Vaticano.jpg?width=200px)
