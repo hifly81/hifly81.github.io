@@ -9,7 +9,7 @@ tags:
 ShowReadingTime: true
 ---
 
-Some days like every year, December 1st was International AIDS Day.
+Some days ago like every year, December 1st, was International AIDS Day.
 
 The AIDS syndrome appeared forcefully in the 1980s and is still a very important and widespread disease today.
 
