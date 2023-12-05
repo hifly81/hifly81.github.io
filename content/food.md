@@ -2,6 +2,13 @@
 draft: false
 tags:
   - food
+  - ciobar
+  - spritz
+  - capesante
+  - souvignon
+  - martini
+  - aperol
+  - carbonara
 ShowReadingTime: true
 ---
 
@@ -13,3 +20,4 @@ ShowReadingTime: true
  - [Capesante gratinate](https://ricette.giallozafferano.it/Capesante-gratinate.html)
  - [Fritto misto di pesce](https://ricette.giallozafferano.it/Fritto-misto-di-pesce.html)
  - [Tonnarelli alla carbonara](https://blog.giallozafferano.it/franpasefora/tonnarelli-alla-carbonara/)
+ - [Ciobar](https://www.cameo.it/prodotti/s/dessert/ciobar)
