@@ -93,5 +93,7 @@ params:
       url: "https://instagram.com/giogioistg"
     - name: strava
       url: "https://www.strava.com/athletes/6973861"
+    - name: telegram
+      url: "t.me/tennisalbanolaziale"
     - name: RSS
       url: "/posts/index.xml"
