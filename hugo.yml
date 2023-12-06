@@ -49,10 +49,14 @@ menu:
     - identifier: |
       url: ""
       weight: 11
-    - identifier: about
-      name: About
-      url: /about
+    - identifier: projects
+      name: Project
+      url: /projects
       weight: 12
+    - identifier: about
+      name: Bio
+      url: /about
+      weight: 14
     - identifier: aid
       name: Aid
       url: /aid
