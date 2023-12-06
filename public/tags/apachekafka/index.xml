@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>apachekafka on Giovanni Marigi - Personal Page</title>
+    <link>https://hifly81.github.io/tags/apachekafka/</link>
+    <description>Recent content in apachekafka on Giovanni Marigi - Personal Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://hifly81.github.io/tags/apachekafka/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://hifly81.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hifly81.github.io/projects/</guid>
+      <description>This is a list of the main projects I contribute to.
+See the complete list on my github repo: https://github.com/hifly81
+JR: streaming quality random data from the command line https://github.com/ugol/jr Confluent JMX monitoring stacks: Monitoring examples for Confluent Cloud and Confluent Platform https://github.com/confluentinc/jmx-monitoring-stacks kafka-examples: Practical examples with Apache Kafka® https://github.com/hifly81/kafka-examples camel-dropbox: Apache Camel component for Dropbox integration https://github.com/hifly81/camel-dropbox saga-pattern-demo: Saga Pattern Showcase - choreography implementation with quarkus, debezium, elastic search - orchestrator with ksqlDB https://github.</description>
+    </item>
+    
+  </channel>
+</rss>

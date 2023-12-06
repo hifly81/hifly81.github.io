@@ -52,19 +52,11 @@ menu:
     - identifier: about
       name: About
       url: /about
-      weight: 14
+      weight: 12
     - identifier: aid
       name: Aid
       url: /aid
-      weight: 15
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 16
-    - identifier: search
-      name: Search
-      url: /search
-      weight: 17
+      weight: 13
 
 params:
   env: production
