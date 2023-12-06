@@ -5,7 +5,7 @@ tags:
 ShowReadingTime: true
 ---
 
-I am over 40 who works as a Solutions Architects in the IT sector.
+I am over 40 who working as a Solutions Architects in the IT sector.
 
 I studied Computer Engineering and my background is humanistic and the subjects studied during my high school years have remained my passions as can be seen in this website.
 
