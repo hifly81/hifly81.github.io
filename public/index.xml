@@ -88,9 +88,8 @@ Unicef</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://hifly81.github.io/projects/</guid>
-      <description>This is a list of the main projects I contribute to.
-See the complete list on my github repo: https://github.com/hifly81
-JR: streaming quality random data from the command line https://github.com/ugol/jr Confluent JMX monitoring stacks: Monitoring examples for Confluent Cloud and Confluent Platform https://github.com/confluentinc/jmx-monitoring-stacks kafka-examples: Practical examples with Apache Kafka® https://github.com/hifly81/kafka-examples camel-dropbox: Apache Camel component for Dropbox integration https://github.com/hifly81/camel-dropbox saga-pattern-demo: Saga Pattern Showcase - choreography implementation with quarkus, debezium, elastic search - orchestrator with ksqlDB https://github.</description>
+      <description>This is a list of the main projects I contribute to. See the complete list on my github repo: https://github.com/hifly81
+JR streaming quality random data from the command line https://github.com/ugol/jr Confluent JMX monitoring stacks Monitoring examples for Confluent Cloud and Confluent Platform https://github.com/confluentinc/jmx-monitoring-stacks kafka-examples Practical examples with Apache Kafka® https://github.com/hifly81/kafka-examples camel-dropbox Apache Camel component for Dropbox integration https://github.com/hifly81/camel-dropbox saga-pattern-demo Saga Pattern Showcase - choreography implementation with quarkus, debezium, elastic search - orchestrator with ksqlDB https://github.</description>
     </item>
     
     <item>
@@ -112,6 +111,17 @@ JR: streaming quality random data from the command line https://github.com/ugol/
 I recently saw Ridley Scott&amp;rsquo;s new film, Napoleon, a short cinematic reconstruction of the rise and fall of Napoleon Bonaparte.
 Napoleon is played by Joaquin Phoenix, an outstanding actor in every performance. Even if here in my opinion a little subdued.
 The film retraces some of the most important battles of Bonaparte&amp;rsquo;s career and is centered on the love story with his Josephine. There are some scenes that are a little rough in my opinion, not worthy of Ridley Scott (the cannons against the Egyptian pyramids?</description>
+    </item>
+    
+    <item>
+      <title>NAZ, rise and fall of Prince Naseem Hamed</title>
+      <link>https://hifly81.github.io/posts/naz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hifly81.github.io/posts/naz/</guid>
+      <description>At the suggestion of a friend of mine, I saw a short documentary on the boxing career of Prince Naseem Hamed.
+&amp;ldquo;Naz&amp;rdquo; was certainly one of the most influential boxers of the late 90s and early 2000s and one of the greatest featherweights in history. He had very powerful and precise strikes for a featherweight and an engaging, very show-oriented in-ring style.
+I have always had the idea that his successful career was made possible by having to face weak opponents and by the need to create a character who could bring prestige to the minor categories of boxing.</description>
     </item>
     
     <item>
