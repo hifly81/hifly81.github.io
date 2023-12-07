@@ -7,53 +7,53 @@ tags:
 ShowReadingTime: true
 ---
 
-Se pensi che sia logico
-Scoprire in mezzo al traffico
-Di amarsi in modo cosmico
-Ma un attimo che poi due metri dopo
-L'amore sembra consumato già
+Se pensi che sia logico<br>
+Scoprire in mezzo al traffico<br>
+Di amarsi in modo cosmico<br>
+Ma un attimo che poi due metri dopo<br>
+L'amore sembra consumato già<br>
 
-Lo so che non ti piacciono
-Le situazioni in bilico
-Le cose che succedono
-E succedono lo so
-Ma che discorsi
-Sei tu che butti sempre tutto giù
-Ma che discorsi
-Nel dubbio che poi non funzioni più
-Così fai tu.
+Lo so che non ti piacciono<br>
+Le situazioni in bilico<br>
+Le cose che succedono<br>
+E succedono lo so<br>
+Ma che discorsi<br>
+Sei tu che butti sempre tutto giù<br>
+Ma che discorsi<br>
+Nel dubbio che poi non funzioni più<br>
+Così fai tu.<br>
 
-E poi con quello che succede
-In una storia come questa
-Non è che ti può chiedere
-Se sia la strada giusta
-Ad ogni angolo, ogni semaforo che c'è
+E poi con quello che succede<br>
+In una storia come questa<br>
+Non è che ti può chiedere<br>
+Se sia la strada giusta<br>
+Ad ogni angolo, ogni semaforo che c'è<br>
 
-Lo so che non coincidono
-Le previsioni e l'esito
-Le obbiezioni in merito
-Le immagino però
-Perché fermarsi?
-In radio c'è anche un pezzo che mi va
-Ma che discorsi, scusa
-La strada forse è chiusa e non si sa
-(Da dove viene - tantomeno dove va)
+Lo so che non coincidono<br>
+Le previsioni e l'esito<br>
+Le obbiezioni in merito<br>
+Le immagino però<br>
+Perché fermarsi?<br>
+In radio c'è anche un pezzo che mi va<br>
+Ma che discorsi, scusa<br>
+La strada forse è chiusa e non si sa<br>
+(Da dove viene - tantomeno dove va)<br>
 
-Ci siamo persi ma
-Se tanto non hai fretta
-Amore aspetta...
-Gira di qua.Gira di qua
-Giiira!
+Ci siamo persi ma<br>
+Se tanto non hai fretta<br>
+Amore aspetta...<br>
+Gira di qua.Gira di qua<br>
+Giiira!<br>
 
-E poi con quello che succede
-In una vita come questa
-Forse è meglio se la strada
-Non è proprio quella giusta
-Si, con quello che succede
-Quello che si vede intorno
-Non dobbiamo riconoscere
-La strada del ritorno
-Ad ogni angolo, ogni semaforo che c'è.
+E poi con quello che succede<br>
+In una vita come questa<br>
+Forse è meglio se la strada<br>
+Non è proprio quella giusta<br>
+Si, con quello che succede<br>
+Quello che si vede intorno<br>
+Non dobbiamo riconoscere<br>
+La strada del ritorno<br>
+Ad ogni angolo, ogni semaforo che c'è.<br>
 
 
 
