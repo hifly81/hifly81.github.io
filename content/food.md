@@ -9,6 +9,7 @@ tags:
   - martini
   - aperol
   - carbonara
+  - pancakes
 ShowReadingTime: true
 ---
 
@@ -21,3 +22,4 @@ ShowReadingTime: true
  - [Fritto misto di pesce](https://ricette.giallozafferano.it/Fritto-misto-di-pesce.html)
  - [Tonnarelli alla carbonara](https://blog.giallozafferano.it/franpasefora/tonnarelli-alla-carbonara/)
  - [Ciobar](https://www.cameo.it/prodotti/s/dessert/ciobar)
+ - [Pancakes](https://ricette.giallozafferano.it/Pancakes-allo-sciroppo-d-acero.html)
