@@ -6,7 +6,6 @@ tags:
 ShowReadingTime: true
 ---
 
-Senza scappare mai più
 Luce buona delle stelle
 Dimmi adesso dove andrò
 Se non lascio cosa faccio
