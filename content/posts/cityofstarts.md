@@ -22,8 +22,10 @@ City of stars
 Just one thing everybody wants
 There in the bars
 And through the smokescreen of the crowded restaurants
-It's love
-Yes, all we're looking for is love from someone else
+
+**_It's love
+Yes, all we're looking for is love from someone else_**
+
 A rush
 A glance
 A touch
