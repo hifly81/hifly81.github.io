@@ -12,6 +12,9 @@ ShowReadingTime: true
 
 ![Resize](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Emergency_%28NGO%29_logo.svg/640px-Emergency_%28NGO%29_logo.svg.png)
 
+**[Save the children](https://www.savethechildren.it/)**
+
+![Resize](https://cdn.worldvectorlogo.com/logos/save-the-children-logo.svg)
 
 **[UNHCR](https://www.unhcr.org/it/)**
 
