@@ -17,3 +17,5 @@ E' stato un dibattito organico con spunti interessanti; il 2024 rappresenterà i
 
 Tra i vari argomenti uno molto interessante: non c'è solo "la lotta" per il controllo territoriale in superficie ma anche uello dei fondali marini; in fondo al mar, con snodo cruciale il Mediterraneo, sono dislocati kilometri e kilometri di cavi per la fibra ottica, che permettono la trasmissione dei dati digitali, su cui questa era digitale è permeata, possibile.
 
+![Più libri più liberi 2023](/piulibri.jpeg)
+
