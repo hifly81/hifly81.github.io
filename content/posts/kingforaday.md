@@ -1,5 +1,5 @@
 ---
-title: 'Discolabirinto'
+title: 'King for a day'
 draft: false
 tags:
   - music
