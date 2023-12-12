@@ -10,7 +10,21 @@ tags:
   - github
 ShowReadingTime: true
 ---
+Groups of which I am a member and whose activities I support:
 
+[**Roma Apache Kafka® Meetup by Confluent**](https://www.meetup.com/Roma-Kafka-meetup-group/)
+
+![Resize](https://secure-content.meetupstatic.com/images/classic-events/460220504/200x113.jpg?w=200?w=256)
+
+[**Milano Apache Kafka® Meetup by Confluent**](https://www.meetup.com/Milano-Kafka-meetup/)
+
+![Resize](https://secure-content.meetupstatic.com/images/classic-events/460220504/200x113.jpg?w=200?w=256)
+
+[**Golang Roma**](https://www.meetup.com/golangroma/)
+
+![Resize](https://secure-content.meetupstatic.com/images/classic-events/504218297/200x113.jpg?w=200?w=256)
+
+***
 
 This is a list of the main projects I contribute to. _See the complete list on my github repo:
 https://github.com/hifly81_
