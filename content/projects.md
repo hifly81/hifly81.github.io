@@ -29,7 +29,6 @@ Groups of which I am a member and whose activities I support:
 This is a list of the main projects I contribute to. _See the complete list on my github repo:
 https://github.com/hifly81_
 
-***
 
 ### **JR**
 #### _streaming quality random data from the command line_
