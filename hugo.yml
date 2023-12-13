@@ -55,7 +55,7 @@ params:
     - name: strava
       url: "https://www.strava.com/athletes/6973861"
     - name: imdb
-      url: "https://www.imdb.com/user/ur174094851"
+      url: "https://www.imdb.com/user/ur174094851/watchlist"
     - name: telegram
       url: "https://t.me/tennisalbanolaziale"
     - name: RSS
