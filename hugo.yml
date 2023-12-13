@@ -17,18 +17,15 @@ menu:
     - identifier: posts
       name: Blog
       url: /posts
-      weight: 4
-    - identifier: |
-      url: ""
-      weight: 11
+      weight: 5
     - identifier: projects
       name: Projects
       url: /projects
-      weight: 12
+      weight: 6
     - identifier: about
-      name: Bio
+      name: About
       url: /about
-      weight: 14
+      weight: 4
 
 params:
   env: production
