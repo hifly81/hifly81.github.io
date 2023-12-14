@@ -1,5 +1,5 @@
 ---
-title: 'City of stars'
+title: 'Firestone'
 draft: false
 tags:
   - music
