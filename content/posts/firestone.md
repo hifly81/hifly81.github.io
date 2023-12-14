@@ -8,6 +8,6 @@ tags:
 ShowReadingTime: true
 ---
 
-:heart: :heart:
+❤️ ❤️
 
 {{< youtube 9Sc-ir2UwGU >}}
