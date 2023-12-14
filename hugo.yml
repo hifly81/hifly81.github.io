@@ -58,6 +58,8 @@ params:
       url: "https://www.imdb.com/user/ur174094851/watchlist"
     - name: anobii
       url: "https://www.anobii.com/it/019b4680733b620a14/profile/books"
+    - name: meetup
+      url: "https://www.meetup.com/members/49664132/"
     - name: telegram
       url: "https://t.me/tennisalbanolaziale"
     - name: RSS
