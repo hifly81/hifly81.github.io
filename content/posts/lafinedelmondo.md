@@ -8,7 +8,9 @@ tags:
 ShowReadingTime: true
 ---
 
-Una volta ad X Factor ho visto una performance vera, cruda, sentita, di pancia. 
+Una volta ad X Factor ho visto una performance vera, cruda, sentita, di pancia, emozionante.
+
+Ho visto cantare per esigenza.
 
 Ho visto l'x factor.
 
