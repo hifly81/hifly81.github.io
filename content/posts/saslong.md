@@ -9,7 +9,7 @@ tags:
 ShowReadingTime: true
 ---
 
-Val Gardena is a place the heart for me. 
+Val Gardena is a place of heart for me. 
 
 For many years now in summer it has been the place that means regeneration and peace for me and that I choose for my summer holidays.
 
