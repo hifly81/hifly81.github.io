@@ -15,6 +15,8 @@ I am a fan of music, even if I don't always have a favorite genre, of cinema and
 
 I love traveling and experiencing food from cuisines other than my own, the Italian one. I have many places in my heart, if I really had to indicate 3, I would say the islands of Greece, South Africa and the Dolomites.
 
+I believe very much in volunteering experiences, they should be a part of everyone's life.
+
 My thoughts do not tolerate wars or borders between peoples. There is always time to help others.
 
 _"Le vittime di una guerra, qualsiasi guerra, sono sempre i civili, che non hanno colpe. Ecco perché la guerra è sbagliata in sé"_ - Gino Strada
