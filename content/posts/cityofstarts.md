@@ -23,8 +23,8 @@ Just one thing everybody wants
 There in the bars
 And through the smokescreen of the crowded restaurants
 
-**_It's love
-Yes, all we're looking for is love from someone else_**
+It's love
+Yes, all we're looking for is love from someone else
 
 A rush
 A glance
