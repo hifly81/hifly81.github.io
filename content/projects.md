@@ -32,17 +32,17 @@ _See the complete list on my github repo:
 https://github.com/hifly81_
 
 
-### **JR**
-#### _streaming quality random data from the command line_ https://github.com/ugol/jr
+### **[JR](https://github.com/ugol/jr)**
+#### _streaming quality random data from the command line_
 
-### **Confluent JMX monitoring stacks**
-#### _Monitoring examples for Confluent Cloud and Confluent Platform_ https://github.com/confluentinc/jmx-monitoring-stacks
+### **[Confluent JMX monitoring stacks](https://github.com/confluentinc/jmx-monitoring-stacks)**
+#### _Monitoring examples for Confluent Cloud and Confluent Platform_
 
-### **kafka-examples** 
-#### _Practical examples with Apache Kafka®_ https://github.com/hifly81/kafka-examples
+### **[kafka examples](https://github.com/hifly81/kafka-examples)** 
+#### _Practical examples with Apache Kafka®_
 
-### **camel-dropbox**
-#### _Apache Camel component for Dropbox integration_ https://github.com/hifly81/camel-dropbox
+### **[camel dropbox](https://github.com/hifly81/camel-dropbox)**
+#### _Apache Camel component for Dropbox integration_
 
-### **saga-pattern-demo**
-#### _Saga Pattern Showcase - choreography implementation with quarkus, debezium, elastic search - orchestrator with ksqlDB_ https://github.com/hifly81/saga-pattern-demo
+### **[saga pattern showcase](https://github.com/hifly81/saga-pattern-demo)**
+#### _Saga Pattern Showcase - choreography implementation with quarkus, debezium, elastic search - orchestrator with ksqlDB_
