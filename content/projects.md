@@ -10,7 +10,7 @@ tags:
   - github
 ShowReadingTime: true
 ---
-### Groups of which I am a member and whose activities I support
+### I support:
 
 [**Roma Apache Kafka® Meetup by Confluent**](https://www.meetup.com/Roma-Kafka-meetup-group/)
 
@@ -26,7 +26,7 @@ ShowReadingTime: true
 
 ***
 
-### Projects I contribute to
+### I contribute to these projects:
 
 _See the complete list on my [github](https://github.com/hifly81):_
 
