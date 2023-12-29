@@ -10,7 +10,7 @@ tags:
   - github
 ShowReadingTime: true
 ---
-## Groups of which I am a member and whose activities I support
+### Groups of which I am a member and whose activities I support
 
 [**Roma Apache Kafka® Meetup by Confluent**](https://www.meetup.com/Roma-Kafka-meetup-group/)
 
@@ -26,23 +26,23 @@ ShowReadingTime: true
 
 ***
 
-## Projects I contribute to
+### Projects I contribute to
 
-_See the complete list on my github repo:
-https://github.com/hifly81_
+_See the complete list on my [github](https://github.com/hifly81):_
 
 
-### **[JR](https://github.com/ugol/jr)**
+
+#### **[JR](https://github.com/ugol/jr)**
 #### _streaming quality random data from the command line_
 
-### **[Confluent JMX monitoring stacks](https://github.com/confluentinc/jmx-monitoring-stacks)**
+#### **[Confluent JMX monitoring stacks](https://github.com/confluentinc/jmx-monitoring-stacks)**
 #### _Monitoring examples for Confluent Cloud and Confluent Platform_
 
-### **[kafka examples](https://github.com/hifly81/kafka-examples)** 
+#### **[kafka examples](https://github.com/hifly81/kafka-examples)** 
 #### _Practical examples with Apache Kafka®_
 
-### **[camel dropbox](https://github.com/hifly81/camel-dropbox)**
+#### **[camel dropbox](https://github.com/hifly81/camel-dropbox)**
 #### _Apache Camel component for Dropbox integration_
 
-### **[saga pattern showcase](https://github.com/hifly81/saga-pattern-demo)**
+#### **[saga pattern showcase](https://github.com/hifly81/saga-pattern-demo)**
 #### _Saga Pattern Showcase - choreography implementation with quarkus, debezium, elastic search - orchestrator with ksqlDB_
