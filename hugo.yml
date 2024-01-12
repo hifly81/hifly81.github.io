@@ -32,7 +32,7 @@ params:
   title: Giovanni Marigi - Personal Page
   description: Giovanni Marigi - Personal Page
   keywords: [Giovanni Marigi, Marigi]
-  ShowBreadCrumbs: true
+  ShowBreadCrumbs: false
   ShowToc: false
   TocOpen: false
   fuseOpts:
