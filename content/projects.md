@@ -8,21 +8,17 @@ tags:
   - apachecamel
   - sagapattern
   - github
-ShowReadingTime: true
+ShowReadingTime: false
 ---
-### I support:
+### Groups that I support:
 
 [**Roma Apache Kafka® Meetup by Confluent**](https://www.meetup.com/Roma-Kafka-meetup-group/)
 
-![Resize](https://secure-content.meetupstatic.com/images/classic-events/460220504/200x113.jpg?w=200?w=256)
-
 [**Milano Apache Kafka® Meetup by Confluent**](https://www.meetup.com/Milano-Kafka-meetup/)
-
-![Resize](https://secure-content.meetupstatic.com/images/classic-events/460220504/200x113.jpg?w=200?w=256)
 
 [**Golang Roma**](https://www.meetup.com/golangroma/)
 
-![Resize](https://secure-content.meetupstatic.com/images/classic-events/504218297/200x113.jpg?w=200?w=256)
+[**Distributed Streaming on Telegram**](https://t.me/kafkastreaming)
 
 ***
 
