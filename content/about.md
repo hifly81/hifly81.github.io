@@ -2,7 +2,7 @@
 draft: false
 tags:
   - lifestyle
-ShowReadingTime: true
+ShowReadingTime: false
 ---
 
 I am over 40, and I'm currently working as a Solutions Architects in the IT sector.
