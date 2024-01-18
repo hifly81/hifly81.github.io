@@ -11,7 +11,7 @@ ShowReadingTime: false
 
 A unique TV series from a few years ago that you can't help but love. 
 
-It has an incredible soundtrack with pieces that have made music history.
+It has an incredible soundtrack with tracks that have made music history.
 
 It was so beautiful but expensive that unfortunately they only made one season :(
 
