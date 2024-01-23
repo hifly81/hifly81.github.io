@@ -27,7 +27,7 @@ ShowReadingTime: false
 See the complete list on my **[github](https://github.com/hifly81)**
 
 
--  **[JR](https://github.com/ugol/jr)**: _streaming quality random data from the command line_
+- **[JR](https://github.com/ugol/jr)**: _streaming quality random data from the command line_
 
 - **[Confluent JMX monitoring stacks](https://github.com/confluentinc/jmx-monitoring-stacks)**: _Monitoring examples for Confluent Cloud and Confluent Platform_
 
@@ -36,3 +36,8 @@ See the complete list on my **[github](https://github.com/hifly81)**
 - **[camel dropbox](https://github.com/hifly81/camel-dropbox)**: _Apache Camel component for Dropbox integration_
 
 - **[saga pattern showcase](https://github.com/hifly81/saga-pattern-demo)**: _Saga Pattern Showcase - choreography implementation with quarkus, debezium, elastic search - orchestrator with ksqlDB_
+
+### Groups I was member of
+
+- **[JBoss user group Italy](https://www.slideshare.net/jbugrome)**: _Roma and Milano JBoss User Group._
+- **[Java user Group Roma](https://jugroma.blogspot.com/)**: _JUG Roma_
