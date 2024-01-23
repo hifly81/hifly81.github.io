@@ -37,6 +37,8 @@ See the complete list on my **[github](https://github.com/hifly81)**
 
 - **[saga pattern showcase](https://github.com/hifly81/saga-pattern-demo)**: _Saga Pattern Showcase - choreography implementation with quarkus, debezium, elastic search - orchestrator with ksqlDB_
 
+***
+
 ### Groups I was member of:
 
 - **[JBoss user group Italy](https://www.slideshare.net/jbugrome)**: _Roma and Milano JBoss User Group._
