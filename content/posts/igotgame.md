@@ -6,6 +6,11 @@ tags:
   - basket
   - lifestyle
 ShowReadingTime: false
+cover:
+  image: "/bk1.jpg>"
+  alt: "Venezia - Sant Elena"
+  caption: "Venezia - Sant Elena"
+  relative: false
 ---
 
 It might feel good, it might sound a lil' somethin'
@@ -20,9 +25,6 @@ I got game, she's got game
 
 We got game, they got game, he got game
 
-![Venezia - Sant Elena](/bk1.jpg)
-
-![Castelgandolfo - Lago Albano](/bk2.jpg)
 
 {{< youtube 4aNigor_6d0 >}}
 
