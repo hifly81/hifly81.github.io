@@ -1,6 +1,6 @@
 baseURL: 'https://hifly81.github.io'
 languageCode: en-us
-title: Giovanni Marigi - Personal Page
+title: Giovanni Marigi - Page
 theme: PaperMod
 paginate: 5
 outputs:
@@ -17,23 +17,24 @@ menu:
     - identifier: about
       name: About
       url: /about
-      weight: 4
+      weight: 1
     - identifier: projects
       name: Projects
       url: /projects
-      weight: 6
+      weight: 2
     - name: Tags
       url: tags/
-      weight: 7
+      weight: 3
 
 
 params:
   env: production
-  title: Giovanni Marigi - Personal Page
-  description: Giovanni Marigi - Personal Page
-  keywords: [Giovanni Marigi, Marigi]
+  title: Giovanni Marigi - Page
+  description: Giovanni Marigi - Page
+  keywords: [Giovanni Marigi, Marigi, blog, wiki]
   ShowBreadCrumbs: false
   ShowToc: false
+  ShowCodeCopyButtons: true
   TocOpen: false
   fuseOpts:
     isCaseSensitive: false
