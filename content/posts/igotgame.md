@@ -11,6 +11,7 @@ cover:
   caption: "Venezia - Sant Elena"
   relative: false
   hidden: false
+  hiddenInList: true
 ---
 
 It might feel good, it might sound a lil' somethin'
