@@ -4,8 +4,6 @@ draft: false
 tags:
   - movie
   - soundofmetal
-  - ridleyscott
-  - joaquinphoenix
 ShowReadingTime: false
 ---
 

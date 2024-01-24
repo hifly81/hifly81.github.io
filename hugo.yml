@@ -14,26 +14,22 @@ googleAnalytics: G-Q7ZE713GBG
 
 menu:
   main:
+    - identifier: about
+      name: About
+      url: /about
+      weight: 4
     - identifier: posts
-      name: Blog
+      name: Posts
       url: /posts
       weight: 5
     - identifier: projects
       name: Projects
       url: /projects
       weight: 6
-    - identifier: about
-      name: About
-      url: /about
-      weight: 4
+    - name: Tags
+      url: tags/
+      weight: 7
 
-markup:
-  goldmark:
-    parser:
-      wrapStandAloneImageWithinParagraph: false
-      attribute:
-        block: true
-        title: true
 
 params:
   env: production

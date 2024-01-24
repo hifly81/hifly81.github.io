@@ -3,7 +3,6 @@ title: 'I got game'
 draft: false
 tags:
   - basketball
-  - basket
   - lifestyle
 ShowReadingTime: false
 cover:
@@ -17,7 +16,7 @@ cover:
 ---
 
 ![Castelgandolfo - Lago Albano](/bk2.jpg)
-{width="200" alt="Castelgandolfo - Lago Albano" class="center2"}
+Castelgandolfo - Lago Albano
 
 ***
 

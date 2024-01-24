@@ -3,9 +3,7 @@ title: 'Street of Philadelphia'
 draft: false
 tags:
   - movie
-  - hiv
-  - aids
-  - lifestyle
+  - health
 ShowReadingTime: false
 ---
 
