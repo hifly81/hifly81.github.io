@@ -11,7 +11,7 @@ cover:
   image: "/piulibri.jpeg"
   caption: "Più libri più liberi 2023"
   relative: false
-  hidden: true
+  hidden: false
 ---
 
 Ho partecipato all'annuale fiera nazionale della piccola e media editoria che si tiene come ogni anno a Roma, denominata "Più libri più liberi" ed ho avuto il piacere di assistere ad una tavola rotonda con ospiti il direttore di Repubblica Maurizio Molinari e lo scrittore e divulgatore Corrado Augias. 

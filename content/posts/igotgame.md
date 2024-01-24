@@ -10,7 +10,7 @@ cover:
   image: "/bk1.jpg"
   caption: "Venezia - Sant Elena"
   relative: false
-  hidden: true
+  hidden: false
 ---
 
 It might feel good, it might sound a lil' somethin'
