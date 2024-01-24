@@ -8,8 +8,9 @@ tags:
 ShowReadingTime: false
 cover:
   image: "/bk1.jpg"
-  alt: "Venezia - Sant Elena"
+  caption: "Venezia - Sant Elena"
   relative: false
+  hidden: true
 ---
 
 It might feel good, it might sound a lil' somethin'

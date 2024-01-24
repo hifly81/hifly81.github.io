@@ -35,6 +35,8 @@ params:
   ShowBreadCrumbs: false
   ShowToc: false
   TocOpen: false
+  cover:
+    hidden: false
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
