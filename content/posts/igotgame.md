@@ -5,18 +5,11 @@ tags:
   - basketball
   - lifestyle
 ShowReadingTime: false
-cover:
-  image: "/bk1.jpg"
-  caption: "Venezia - Sant Elena"
-  relative: false
-  hidden: false
-  hiddenInList: true
-  responsiveImages: false
-  linkFullImages: true
 ---
 
+
+![Venezia - Sant Elena](/bk1.jpg) 
 ![Castelgandolfo - Lago Albano](/bk2.jpg)
-Castelgandolfo - Lago Albano
 
 ***
 
@@ -29,4 +22,8 @@ We got game, they got game, he got game..._
 
 
 {{< youtube 4aNigor_6d0 >}}
+
+
+
+
 
