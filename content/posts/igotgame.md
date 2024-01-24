@@ -7,9 +7,8 @@ tags:
   - lifestyle
 ShowReadingTime: false
 cover:
-  image: "/bk1.jpg>"
+  image: "/bk1.jpg"
   alt: "Venezia - Sant Elena"
-  caption: "Venezia - Sant Elena"
   relative: false
 ---
 
