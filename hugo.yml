@@ -18,10 +18,6 @@ menu:
       name: About
       url: /about
       weight: 4
-    - identifier: posts
-      name: Posts
-      url: /posts
-      weight: 5
     - identifier: projects
       name: Projects
       url: /projects
