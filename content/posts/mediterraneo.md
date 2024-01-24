@@ -13,6 +13,8 @@ cover:
   relative: false
   hidden: false
   hiddenInList: true
+  responsiveImages: false
+  linkFullImages: true
 ---
 
 Ho partecipato all'annuale fiera nazionale della piccola e media editoria che si tiene come ogni anno a Roma, denominata "Più libri più liberi" ed ho avuto il piacere di assistere ad una tavola rotonda con ospiti il direttore di Repubblica Maurizio Molinari e lo scrittore e divulgatore Corrado Augias. 

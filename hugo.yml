@@ -27,6 +27,14 @@ menu:
       url: /about
       weight: 4
 
+markup:
+  goldmark:
+    parser:
+      wrapStandAloneImageWithinParagraph: false
+      attribute:
+        block: true
+        title: true
+
 params:
   env: production
   title: Giovanni Marigi - Personal Page

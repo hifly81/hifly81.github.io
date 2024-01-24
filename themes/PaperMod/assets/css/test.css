@@ -1,0 +1,17 @@
+.right2 {
+  float:right;
+  max-width: 40%;
+  margin-left: 5px
+}
+
+.left2 {
+  float:left;
+  max-width: 40%;
+  margin-right: 20px
+}
+
+.center2 {
+  display: block;
+  margin: auto;
+  text-align: center;
+}
