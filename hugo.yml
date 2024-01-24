@@ -36,7 +36,7 @@ params:
   ShowToc: false
   TocOpen: false
   cover:
-    hidden: true
+    hidden: false
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
