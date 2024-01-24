@@ -5,7 +5,7 @@ tags:
   - music
   - anastasio
   - hiphop
-ShowReadingTime: true
+ShowReadingTime: false
 ---
 
 Una volta ad X Factor ho visto una performance vera, cruda, sentita, di pancia, emozionante.

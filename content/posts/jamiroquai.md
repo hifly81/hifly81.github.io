@@ -5,7 +5,7 @@ tags:
   - music
   - jamiroquai
   - thebeachboys
-ShowReadingTime: true
+ShowReadingTime: false
 ---
 
 

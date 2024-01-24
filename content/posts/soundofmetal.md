@@ -6,7 +6,7 @@ tags:
   - soundofmetal
   - ridleyscott
   - joaquinphoenix
-ShowReadingTime: true
+ShowReadingTime: false
 ---
 
 Warning [SPOILER ALERT]

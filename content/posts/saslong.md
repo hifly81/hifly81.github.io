@@ -6,7 +6,7 @@ tags:
   - dolomites
   - nature
   - valgardena
-ShowReadingTime: true
+ShowReadingTime: false
 ---
 
 Val Gardena is a place of heart for me. 

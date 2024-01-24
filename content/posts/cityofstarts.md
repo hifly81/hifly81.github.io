@@ -5,7 +5,7 @@ tags:
   - music
   - musical
   - movie
-ShowReadingTime: true
+ShowReadingTime: false
 ---
 
 

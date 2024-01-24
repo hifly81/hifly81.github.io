@@ -6,7 +6,7 @@ tags:
   - hiv
   - aids
   - lifestyle
-ShowReadingTime: true
+ShowReadingTime: false
 ---
 
 Some days ago like every year, December 1st, was International AIDS Day.

@@ -4,7 +4,7 @@ draft: false
 tags:
   - nba
   - basketball
-ShowReadingTime: true
+ShowReadingTime: false
 ---
 
 A tournament within the already exhausting NBA season. 

@@ -4,7 +4,7 @@ draft: false
 tags:
   - music
   - rem
-ShowReadingTime: true
+ShowReadingTime: false
 ---
 
 
