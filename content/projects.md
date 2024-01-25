@@ -37,6 +37,8 @@ See the complete list on my **[github](https://github.com/hifly81)**
 
 - **[saga pattern showcase](https://github.com/hifly81/saga-pattern-demo)**: _Saga Pattern Showcase - choreography implementation with quarkus, debezium, elastic search - orchestrator with ksqlDB_
 
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=hifly81&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)]
+
 ***
 
 ### Groups I was member of:
