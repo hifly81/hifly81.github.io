@@ -1,5 +1,5 @@
 ---
-title: 'The grund beneath her feet'
+title: 'The ground beneath her feet'
 draft: false
 tags:
   - u2
