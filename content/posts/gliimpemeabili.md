@@ -25,10 +25,10 @@ A prendermi un caffè
 Scusami un attimo
 Passa una mano qui, così
 Sopra I miei lividi
-Ma come piove bene sugl'impermeabili
+Ma come piove bene su gli impermeabili
 E non sull'anima
 
-Ma come piove bene sugl'impermeabili
+Ma come piove bene su gli impermeabili
 
 E non sull'anima
 
