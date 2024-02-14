@@ -18,7 +18,7 @@ Quale storia tu vuoi che io racconti?
 Ah! Non so dir di no, no, no no, no
 
 E ricomincerà
-Come da un rendez-vous
+Come in un rendez-vous
 
 Scendo giù
 A prendermi un caffè
@@ -29,6 +29,7 @@ Ma come piove bene sugl'impermeabili
 E non sull'anima
 
 Ma come piove bene sugl'impermeabili
+
 E non sull'anima
 
 {{< youtube BLGMRxRGYXk >}}
