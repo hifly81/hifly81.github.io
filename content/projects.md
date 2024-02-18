@@ -37,6 +37,8 @@ See the complete list on my **[github](https://github.com/hifly81)**
 
 - **[saga pattern showcase](https://github.com/hifly81/saga-pattern-demo)**: _Saga Pattern Showcase - choreography implementation with quarkus, debezium, elastic search - orchestrator with ksqlDB_
 
+- **[Bike Dump](https://github.com/hifly81/bikedump)**: _Bike Dump can be used to manage and extract stats from GPX 1.0, GPX 1.1 and TCX 2 activities from your cycling/mountain biking workouts. It also offers graphs and history stats._
+
 ![](https://github-readme-stats.vercel.app/api?username=hifly81&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ***
