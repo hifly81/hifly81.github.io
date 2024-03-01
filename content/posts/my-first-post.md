@@ -5,6 +5,7 @@ tags:
   - books
   - reading
   - literature
+  - lifestyle
 ShowReadingTime: false
 ---
 
