@@ -20,4 +20,5 @@ ShowReadingTime: false
 - [Valle di Anterselva](https://photos.app.goo.gl/KE7FnfMSV5ieJPbc7)
 - [Defereggental](https://photos.app.goo.gl/yGWc5w5u8toanrnS8)
 - [Bolzano](https://photos.app.goo.gl/TakzxxbmDNnYieUV9)
+- [Venezia](https://photos.app.goo.gl/KfTZAKfQ7o3WT7b17)
   
